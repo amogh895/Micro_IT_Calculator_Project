@@ -14,7 +14,7 @@ def divide(num1,num2):
      else:
           print("Second number is 0.\nPlease select other numbers.")  
 
-print("Welcome "
+print("Welcome to the Calculator\n"
       "Please select a operation:\n"
       "1. Addition\n" 
       "2. Substraction\n" 
