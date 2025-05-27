@@ -1,3 +1,5 @@
+Simple Calculator in Python
+
 A beginner-friendly, console-based calculator written in Python. This calculator allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 Features:
